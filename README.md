@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sgnhyperion/Portfolio](https://github.com/sgnhyperion/Portfolio)
-
 - 📫 How to reach me **dev.harshhkumar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fm1R3hoLahHlfJn4hzbTf8MIXZdkri8-/view?usp=sharing](https://drive.google.com/file/d/1fm1R3hoLahHlfJn4hzbTf8MIXZdkri8-/view?usp=sharing)
