@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Map Tales](https://github.com/sgnhyperion/Map-Tales)
+<!-- - 🔭 I’m currently working on [Map Tales](https://github.com/sgnhyperion/Map-Tales) 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** -->
 
 - 📫 How to reach me **dev.harshhkumar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fm1R3hoLahHlfJn4hzbTf8MIXZdkri8-/view?usp=sharing](https://drive.google.com/file/d/1fm1R3hoLahHlfJn4hzbTf8MIXZdkri8-/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am boring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
