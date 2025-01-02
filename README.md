@@ -6,11 +6,13 @@
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [Map Tales](https://github.com/sgnhyperion/Map-Tales)  -->
 
-- 🌱 I’m currently learning **Machine Learning** 
-
+- 🌱 Mastering the art of **Tech**
+  
+- 🔗 Open to Collaboration on Interesting Projects 🤝
+  
 - 📫 How to reach me **dev.harshhkumar@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dZksxUckPf5Zes2ssPatKEzU80QRBXDv/view?usp=sharing)
+  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k_FpeexXAP2D6_UdGm3PqLgPBig_30xP/view?usp=sharing)
 
 
 ## 🌐 Socials:
