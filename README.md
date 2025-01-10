@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **dev.harshhkumar@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k_FpeexXAP2D6_UdGm3PqLgPBig_30xP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pvzmHxKOw5V98Y2gB6GuLEwmYd-okbZz/view?usp=sharing)
 
 
 ## 🌐 Socials:
