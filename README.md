@@ -6,7 +6,7 @@
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [Map Tales](https://github.com/sgnhyperion/Map-Tales)  -->
 
-- 🌱 Mastering the art of **Tech**
+- 🌱 **Learning**
   
 - 🔗 Open to Collaboration on Interesting Projects 🤝
   
