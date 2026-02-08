@@ -4,22 +4,20 @@
 
 
 # 💫 About Me:
-<!-- - 🔭 I’m currently working on [Map Tales](https://github.com/sgnhyperion/Map-Tales)  -->
 
-- 🌱 **Learning**
-  
-- 🔗 Open to Collaboration on Interesting Projects 🤝
-  
-- 📫 How to reach me **dev.harshhkumar@gmail.com**
-  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LapTc0GnpqW2pkzhzzLQEWzacTrA7UKD/view?usp=sharing)
+- **Learning**
+- Ex SDE Intern at Profitonium Apps
+- Open to Collaboration on Interesting Projects 🤝
+- How to reach me **dev.harshhkumar@gmail.com**
+- checkout [mimichat.space](https://www.mimichat.space)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1LapTc0GnpqW2pkzhzzLQEWzacTrA7UKD/view?usp=sharing)
 
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkumars1) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235C4C3A.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/berserk29) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/harsh777) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://www.leetcode.com/harshk05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://www.leetcode.com/harshk05) -->
 
 
 # 💻 Tech Stack:
@@ -49,10 +47,10 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sgnhyperion&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sgnhyperion&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgnhyperion&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgnhyperion&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgnhyperion&label=Profile%20views&color=0e75b6&style=flat" alt="sgnhyperion" /> </p>
