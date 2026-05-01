@@ -6,7 +6,7 @@
 # 💫 About Me:
 
 - **Learning**
-- Ex SDE Intern at Profitonium Apps
+- SDE Intern at Rocketium | Ex Profitonium Apps
 - Open to Collaboration on Interesting Projects 🤝
 - How to reach me **dev.harshhkumar@gmail.com**
 - checkout [mimichat.space](https://www.mimichat.space)
